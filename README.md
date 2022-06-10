@@ -9,9 +9,11 @@ language in the terminal.
 
 1. Install the python requirements
 
+```
     python3 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
+```
 
 2. ensure your `OPENAI_API_KEY` is defined in the environment
 
