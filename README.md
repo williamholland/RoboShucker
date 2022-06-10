@@ -26,3 +26,7 @@ output from the above example:
 ## Where does the name come from?
 
 I asked GPT3 to name this project.
+
+## What's with the logo?
+
+I asked Dalle-mini to design it then I traced it in inkscape
