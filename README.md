@@ -1,5 +1,7 @@
 # RoboShucker
 
+![roboshucker logo](https://github.com/williamholland/RoboShucker/blob/main/assets/robo_shucker_logo.png)
+
 This is a small tool for using GPT3 to suggest shell commands from natural
 language in the terminal.
 
